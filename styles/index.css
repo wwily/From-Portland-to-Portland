@@ -1,0 +1,13 @@
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/header-link/__lang-link/header-link__lang-link.css);
+@import url(../blocks/header-link/header-link.css);
+@import url(../blocks/header-link/__lang-link-active/header-link__lang-link-active.css);
+
+@import url(../blocks/logo/logo.css);
+
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__title/lead__title.css);
