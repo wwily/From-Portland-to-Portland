@@ -8,3 +8,9 @@
     margin-top: 8px;
     align-self: start;
 }
+
+@media (max-width: 1024px) {
+    .lead-container__caption{
+        padding-left: 48px;
+    }
+}

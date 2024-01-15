@@ -6,3 +6,18 @@
     grid-template-columns: repeat(4, 284px);
     grid-gap: 16px;
 }
+
+@media (max-width: 1255px) {
+    .photo-grid{
+        grid-template-columns: repeat(3, 300px);
+        grid-gap: 14px;
+    }
+}
+
+@media (max-width: 1015px) {
+    .photo-grid{
+        grid-template-columns: repeat(2, 352px);
+        grid-gap: 16px;
+        margin-left: 22px;
+    }
+}

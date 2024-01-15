@@ -4,3 +4,9 @@
     grid-gap: 0 40px;
     margin-top: 80px;
 }
+
+@media (max-width: 1024px) {
+    .places__row1{
+        grid-gap: 0 75px;
+    }
+}
