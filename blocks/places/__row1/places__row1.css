@@ -10,3 +10,9 @@
         grid-gap: 0 75px;
     }
 }
+
+@media (max-width: 768px) {
+    .places__row1{
+        grid-gap: 0 25px;
+    }
+}

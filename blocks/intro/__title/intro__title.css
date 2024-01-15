@@ -5,3 +5,9 @@
     line-height: 58px;
     padding-bottom: 40px;
 }
+
+@media (max-width: 768px) {
+    .intro__title{
+        max-width: 720px;
+    }
+}

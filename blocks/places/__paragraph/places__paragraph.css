@@ -5,3 +5,9 @@
     font-weight: 400;
     line-height: 163%; 
 }
+
+@media (max-width: 768px){
+    .places__paragraph {
+        font-size: 15.8px;
+    }
+}

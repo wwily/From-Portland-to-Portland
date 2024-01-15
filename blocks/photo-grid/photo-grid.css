@@ -5,6 +5,7 @@
     display: grid;
     grid-template-columns: repeat(4, 284px);
     grid-gap: 16px;
+    transition: all 0.2s ease-in-out;
 }
 
 @media (max-width: 1255px) {
@@ -19,5 +20,11 @@
         grid-template-columns: repeat(2, 352px);
         grid-gap: 16px;
         margin-left: 22px;
+    }
+}
+
+@media (max-width: 765px) {
+    .photo-grid{
+        grid-template-columns: repeat(2, 300px);
     }
 }
