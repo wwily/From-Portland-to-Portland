@@ -21,3 +21,11 @@
         max-width: 750px;
     }
 }
+
+@media (max-width: 460px) {
+    .intro{
+        max-width: 288px;
+        padding-left: 16px;
+        margin-top: 64px;
+    }
+}

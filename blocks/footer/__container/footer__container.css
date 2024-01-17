@@ -2,3 +2,11 @@
     display: flex;
     gap: 18px;
 }
+
+@media (max-width: 320px) {
+    .footer__container{
+        flex-direction: column;
+        gap: 32px;
+        padding-bottom: 48px;
+    }
+}

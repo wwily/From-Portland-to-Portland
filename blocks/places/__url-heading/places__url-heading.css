@@ -6,3 +6,11 @@
     letter-spacing: 2.4px;
     padding-top: 25px;
 }
+
+@media (max-width: 650px) {
+    .places__url-heading{
+        padding-top: 0px;
+        line-height: 12px;
+        padding-bottom: 12px;
+    }
+}

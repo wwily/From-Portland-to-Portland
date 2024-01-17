@@ -14,3 +14,10 @@
         font-size: 42px;
     }
 }
+
+@media (max-width: 650px) {
+    .places__title{
+        padding-bottom: 0;
+        font-size: 32px;
+    }
+}

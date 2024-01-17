@@ -10,3 +10,10 @@
 .places__link:hover{
     opacity: 0.6;
 }
+
+@media (max-width: 650px) {
+    .places__link{
+        padding-bottom: 30px;
+
+    }
+}

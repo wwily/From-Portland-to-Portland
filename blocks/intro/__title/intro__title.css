@@ -11,3 +11,12 @@
         max-width: 720px;
     }
 }
+
+@media (max-width: 460px) {
+    .intro__title{
+        font-size: 30px;
+        line-height: 35px;
+        padding-bottom: 40px;
+        max-width: 288px;
+    }
+}

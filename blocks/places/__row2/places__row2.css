@@ -15,3 +15,9 @@
         grid-gap: 25px 24px;
     }
 }
+
+@media (max-width: 320px) {
+    .places__row2{
+        grid-template-columns: repeat(1, 320px);
+    }
+}
