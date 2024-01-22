@@ -9,3 +9,17 @@
     margin-top: 92px;
     margin-bottom: 92px;
 }
+
+@media (max-width: 768px) {
+    .cover{
+        margin-top: 89px;
+        margin-bottom: 90px;  
+    }
+}
+
+@media (max-width: 320px) {
+    .cover{
+        margin-top: 64px;
+        margin-bottom: 64px;  
+    }
+}

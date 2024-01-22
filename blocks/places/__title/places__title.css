@@ -15,7 +15,7 @@
     }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 320px) {
     .places__title{
         padding-bottom: 0;
         font-size: 32px;

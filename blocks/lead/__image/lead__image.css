@@ -1,17 +1,17 @@
-.lead-container__image{
+.lead__image{
     width: 100%;
     transition: all 0.2s ease-in-out;
 }
 
 @media (max-width: 1024px) {
-    .lead-container__image{
+    .lead__image{
         padding-left: 48px;
         padding-right: 48px;
     }
 }
 
 @media (max-width: 768px) {
-    .lead-container__image{
+    .lead__image{
         padding: 0;
     }
 }

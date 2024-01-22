@@ -1,23 +1,23 @@
-.places__row2{
+.places__information{
     display: grid;
     grid-template-columns: repeat(2, 2fr);
     grid-gap: 25px 40px;
 }
 
 @media (max-width: 1024px) {
-    .places__row2{
+    .places__information{
         grid-gap: 25px 32px;
     }
 }
 
 @media (max-width: 768px) {
-    .places__row2{
+    .places__information{
         grid-gap: 25px 24px;
     }
 }
 
 @media (max-width: 320px) {
-    .places__row2{
+    .places__information{
         grid-template-columns: repeat(1, 320px);
     }
 }
