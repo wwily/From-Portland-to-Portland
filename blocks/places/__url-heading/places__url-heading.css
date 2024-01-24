@@ -5,12 +5,21 @@
     line-height: 170%;
     letter-spacing: 2.4px;
     padding-top: 25px;
+    margin-top: 92px;
+}
+
+@media (max-width: 768px) {
+    .places__url-heading{
+        margin-top: 88px;
+    }
 }
 
 @media (max-width: 320px) {
     .places__url-heading{
+        padding-left: 16px;
         padding-top: 0px;
         line-height: 12px;
         padding-bottom: 12px;
+        margin-top: 0;
     }
 }
