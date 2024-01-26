@@ -30,5 +30,5 @@ The objective of "From Portland to Portland" is to document a travel by bike thr
 * [Weather](https://weather.com/)
 * [Calendar](https://calendar.google.com)
 ## Contacts
-Email: diananesteruk07@gmail.com
-[GitHub](https://github.com/wwily)
+* Email: diananesteruk07@gmail.com
+* [GitHub](https://github.com/wwily)
