@@ -19,7 +19,7 @@ The objective of "From Portland to Portland" is to document a travel by bike thr
 ## Prototype Link
 [Figma](https://www.figma.com/file/AtbNbstbxWPcMqvF061V0R/Sprint-3%3A-From-Portland-to-Portland-%7C-desktop-%2B-mobile?node-id=0%3A1&mode=dev)
 ## Sours Link
-*Places: 
+* Places: 
 1. [Maine](https://global.llbean.com/shop/L.L.Bean-Continental-Rucksack/122952.html?bc=50-816&csp=f&feat=816-GN1)
 2. [New Hampshire](https://www.timberland.com/timberlandpro.html)
 3. [New York](https://www.ge.com/about-us)
